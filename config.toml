@@ -1,0 +1,6 @@
+canonifyurls = true
+baseURL = 'https://xtzi9859.github.io/blog'
+languageCode = 'en-us'
+title = '114!514!4545!'
+theme = "ananke"
+publishDir = "docs"
